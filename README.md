@@ -38,8 +38,8 @@ A collection of apps I’ve developed using **Swift** and **SwiftUI** to practic
 ---
 
 ## 🎓 Education
-- **University of Texas at Dallas (2024–Present)**: Relevant Courses: CS-1337 (CS II), Mobile App Development
-- **High School (2021–2024)**: Focused on Computer Science, Mobile App Development, and Cybersecurity
+- **University of Texas at Dallas (2024–Present)**
+- **High School (2021–2024)**
 
 ---
 
