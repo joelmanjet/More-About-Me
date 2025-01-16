@@ -53,5 +53,5 @@ A collection of apps I’ve developed using **Swift** and **SwiftUI** to practic
 
 ## 📫 Contact Me
 - **Email**: [jxj230048@utdallas.edu](mailto:jxj230048@utdallas.edu)
-  
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/joel-joseph-241097117/)
 ---
