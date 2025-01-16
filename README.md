@@ -13,6 +13,14 @@ Hi, I’m a **Computer Science student** at **UT-Dallas**, passionate about craf
 
 ---
 
+## 📚 Certifications
+- **[Learning Amazon Bedrock](https://github.com/joelmanjet/Learning-Amazon-Bedrock-Challenge-Solutions/tree/main)**  
+    **Skills Learned**: MLOps, Amazon Bedrock  
+    **Short Description**: Completed a comprehensive course on leveraging Generative AI and foundation models (FMs) for tasks such as text summarization, conversational search, and content generation. Gained hands-on experience with tools like Python boto3, LangChain, and Streamlit to develop a ChatBot powered by Amazon Bedrock.
+    Completed on January 16, 2025
+
+---
+
 ## 🚀 Projects
 ### **1. [Lock-In (In Progress)](https://github.com/joelmanjet/Lock-In)**
 **Description**: An iOS app designed to help users optimize their screen time and boost productivity.  
